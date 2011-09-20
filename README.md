@@ -6,8 +6,7 @@ I use it to split large markdown files, but there are many potential uses (large
 
 ## Installation
 
-    sudo gem sources -a http://gemcutter.org # [if you haven't done it already]
-    sudo gem install includer
+    gem install includer
     
 ## Usage
 
@@ -34,4 +33,4 @@ If you omit the output file, it will write to the standard output.
 
 ## Copyright & Licensing
 
-Copyright (c) 2010 Sergio Gil. MIT license, see LICENSE for details.
+Copyright (c) 2010-2011 Sergio Gil. MIT license, see LICENSE for details.
