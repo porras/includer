@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name              = "includer"
-  s.version           = "0.1.0"
+  s.version           = "0.1.1"
   s.summary           = "Includes files into another files"
   s.author            = "Sergio Gil Pérez de la Manga"
   s.email             = "sgilperez@gmail.com"

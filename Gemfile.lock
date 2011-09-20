@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    includer (0.1.0)
+    includer (0.1.1)
 
 GEM
   remote: http://rubygems.org/
