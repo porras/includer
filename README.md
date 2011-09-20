@@ -1,4 +1,4 @@
-# The Includer
+# The Includer [![Travis](http://travis-ci.org/porras/includer.png)](http://travis-ci.org/porras/includer)
 
 The Includer is an easy way to include files into another files, like we are used to do when programming (every language has its own variation of `load`, `require`, `import`, etc.) or in the web (Apache's [SSI](http://httpd.apache.org/docs/2.2/howto/ssi.html), PHP's [`include`](http://php.net/manual/en/function.include.php), Rails' [`render :partial`](http://api.rubyonrails.org/classes/ActionController/Base.html#M000658), etc.) but with any kind of file, under any circunstance.
 
