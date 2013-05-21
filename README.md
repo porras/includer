@@ -33,4 +33,4 @@ If you omit the output file, it will write to the standard output.
 
 ## Copyright & Licensing
 
-Copyright (c) 2010-2011 Sergio Gil. MIT license, see LICENSE for details.
+Copyright (c) 2010-2013 Sergio Gil. MIT license, see LICENSE for details.
